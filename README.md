@@ -1,4 +1,4 @@
-# edison_kernel_headers
+# edison_kernel_kprobe
 
 Refer to iot.seas.ucla.edu
 
